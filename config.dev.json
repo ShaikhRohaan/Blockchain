@@ -15,7 +15,8 @@
     }, {
         "uri": "plugin://aleth.io/eth-lite",
         "config": {
-            "nodeUrl": "http://134.209.154.96:8545"
+            "nodeUrl": "http://134.209.154.96:8545",
+            "ethSymbol": "MMIT"
         }
     }],
 
